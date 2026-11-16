@@ -32,13 +32,13 @@ Registro de las skills construidas con OpenClaw para consultar mi progreso en 4G
 ## Skills extendidas
 
 ### Skill 5:
-- **Necesidad que identifiqué:**
+- Obtener mi actividad porque quiero saber cuánto he estudiado esta semana para mantener constancia.
 - **Prompt en lenguaje natural:**
 - **Qué hace y endpoint(s):**
 - **Resultado de prueba:**
 
 ### Skill 6:
-- **Necesidad que identifiqué:**
+- Buscar ejercicios por tecnología porqué quiero practicar Python con ejercicios fáciles y útiles cuando termino mis actividades.
 - **Prompt en lenguaje natural:**
 - **Qué hace y endpoint(s):**
 - **Resultado de prueba:**
